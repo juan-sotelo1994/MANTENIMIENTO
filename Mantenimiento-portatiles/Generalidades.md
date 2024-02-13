@@ -28,14 +28,14 @@ Manifiesto que en los días anteriores a la realización de este taller he leíd
 ## Objetivos de la asignatura
 
 ### Objetivo General
-Proporcionar el conocimiento y generar las habilidades necesarias en la configuración y gestión de dispositivos de redes.
+Proporcionar el conocimiento y generar las habilidades necesarias para la correcta reparacion y correccion de equipos de computo protatil. 
 
 ### Objetivos Específicos:
-- Conocer los diferentes dispositivos de redes según el entorno de aplicabilidad.
-- Conocer la configuración y despliegue de protocolos de asignación de direccionamiento IP.
-- Conocer la configuración, afinamiento y puesta en marcha de firewall’s sobre los dispositivos de redes.
-- Desplegar un hotspot, su portal cautivo y políticas de control de ancho de banda
-- Conocer la configuración y despliegue de redes privadas virtuales sobre dispositivos de red.
+- Conocer las diferntes tecnicas de reparacion de equipos.
+- Conocer la configuración apropiada para la configuracion de los equipos.
+- Conocer los sistemas basicos para la reparacionde los sistemas de computo.
+- Desplegar una buena practica en el desemsamble y ensamble de los equips de computo.
+- Conocer los metodos mas eficaces para brindar un diagnostico adecuado de un equipo de computo.
 
 ---
 ## Bibliografía
