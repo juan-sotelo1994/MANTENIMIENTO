@@ -12,25 +12,19 @@
 Proporcionar el conocimiento y generar las habilidades necesarias para realizar mantenimientos preventivos de equipos informaticos.
 
 ### Objetivos Específicos:
-- Conocer los fundamentos necesarios para 
+- Conocer los fundamentos necesarios para dar un diagnostico preciso para el Mantenimiento Preventivo.
 
 ---
 ## 1. [Configurar el entorno de trabajo](#) ✔
 1. Instalar [VSCode][1_1]
 2. Instalar [Git][1_2]
 3. Crear una cuenta en [github][1_3]
-4. Crear un [repositorio nuevo][1_4] en Github llamado <code>Redes-dos</code>
+4. Crear un [repositorio nuevo][1_4] en Github llamado <code>Lab-Mantenimiento</code>
 5. Instalar la [extension de github][1_5] para VScode
-6. Agregar <code>Usuario</code> y <code>Correo</code> globalmente para Git.
+6. Agregar <code>Usuario</code> y <code>Correo</code>
 7. Cerrar carpeta y clonar el repositorio remoto desde VScode.
-8. Crear una carpeta en el repositorio Redes-dos llamada <code>Laboratorio-uno</code>.
+8. Crear una carpeta en el repositorio  llamada <code>Mant-01</code>.
 
-
-```bash
-# Para agregar Usuario y Contraseña a GIT
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
-```
 
 [1_1]:https://code.visualstudio.com/download
 [1_2]:https://git-scm.com/download/win
@@ -42,7 +36,7 @@ $ git config --global user.email johndoe@example.com
 ## 2. [Preguntas reflexivas de ambientación](#) ✔
 
 <ol type="a">
-<li>¿Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30?.</li>
+<li>¿Cuáles son los principales riesgos o problemas que pueden surgir si no se realiza mantenimiento preventivo en los portátiles?</li>
 <li>¿Que información se puede inferir de un host con la dirección 169.254.255.200/26?.</li>
 <li>¿Cuantas sub-redes puede lograr con la mascara 172.16.0.0/22?.</li>
 <li>¿Cuantos clientes puede tener la sub red 172.16.0.0/22?.</li>
