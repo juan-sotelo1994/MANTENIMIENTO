@@ -37,13 +37,13 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 
 <ol type="a">
 <li>¿Cuáles son los principales riesgos o problemas que pueden surgir si no se realiza mantenimiento preventivo en los portátiles?</li>
-<li>¿Que información se puede inferir de un host con la dirección 169.254.255.200/26?.</li>
-<li>¿Cuantas sub-redes puede lograr con la mascara 172.16.0.0/22?.</li>
-<li>¿Cuantos clientes puede tener la sub red 172.16.0.0/22?.</li>
-<li>¿Que clase y tipo de dirección es 10.10.10.0/24?.</li>
+<li>¿Qué componentes de un portátil son más susceptibles a fallas y requieren un mantenimiento preventivo más frecuente?</li>
+<li>¿Qué herramientas y recursos se necesitan para llevar a cabo un mantenimiento preventivo efectivo en los portátiles?</li>
+<li>¿Cuáles son las mejores prácticas para mantener limpios los componentes internos y externos de un portátil como parte del mantenimiento preventivo?</li>
+<li>¿Qué estrategias podemos emplear para optimizar el rendimiento del portátil como parte del mantenimiento preventivo, además de simplemente corregir problemas existentes?</li>
 </ol>
 
-## 3. [Caracterización de los adaptadores](#) ✔
+## 3. [Caracterización de tu equipo de computo](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
 |Número de adaptadores Físicos|-->|3|
