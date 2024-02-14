@@ -31,7 +31,7 @@ Manifiesto que en los días anteriores a la realización de este taller he leíd
 Proporcionar el conocimiento y generar las habilidades necesarias para la correcta reparacion y correccion de equipos de computo protatil. 
 
 ### Objetivos Específicos:
-- Conocer las diferntes tecnicas de reparacion de equipos.
+- Conocer las difernte  s tecnicas de reparacion de equipos.
 - Conocer la configuración apropiada para la configuracion de los equipos.
 - Conocer los sistemas basicos para la reparacionde los sistemas de computo.
 - Desplegar una buena practica en el desemsamble y ensamble de los equips de computo.
@@ -39,13 +39,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias para la correc
 
 ---
 ## Bibliografía
-- Sklar, B (2000). Digital Communications, Fundamentals And Applications. Prentice Hall. 2Ed.
-- Tanenbaum, A (2003). Computer Networks. 4 Ed. Pearson Prentice Hall.
-- Stallings, W (2004). Comunicaciones y Redes de Computadores. 7 Ed. Pearson Prentice Hall.
 
----
-## Mas Recursos
-- [Wiki Mikrotik](https://wiki.mikrotik.com/wiki/Main_Page) (Wikipedia)
-- [Cursos de Redes](https://www.netacad.com/es/courses/networking) (Cisco Networking Academy)
-- [Curso de Mikrotik](https://www.youtube.com/watch?v=AWtYiwTYR7A&list=PLf0g2cV4iCkH19_UhaVt0vDn1f9ObumjF) (YouTube)
-- [Calculadora IP](https://www.calculator.net/ip-subnet-calculator.html) (Wikipedia)
+- "The Laptop Repair Workbook: An Introduction to Troubleshooting and Repairing Laptop Computers" por Morris Rosenthal.
+- "Upgrading and Repairing Laptops" por Scott Mueller.
+- "Laptop Repair Complete Guide; Including Motherboard Component Level Repair!" por Garry Romaneo.
+- "Laptop Repair Made Easy: How to Repair a Laptop Step by Step" por Thomas James.
+- "Laptop Repair: How to Troubleshoot and Fix Your Laptop" por Victor Emeka.
+- "101 Essential Tips: Basic Laptop Repair Tips" por Michael Lawrence.
+- "Laptop Repair: A Complete Guide on How to Repair, Upgrade, and Maintain a Laptop" por Ron White.
+
