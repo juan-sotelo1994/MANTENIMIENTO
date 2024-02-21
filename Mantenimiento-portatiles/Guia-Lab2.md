@@ -8,17 +8,15 @@
 ## Objetivos
 
 ### Objetivo General
-Proporcionar el conocimiento y generar las habilidades necesarias en la configuración y gestión de dispositivos de redes.
+Proporcionar el conocimiento y generar las habilidades necesarias realizar un buen mantenimiento correcitvo de sistemas.
 
 ### Objetivos Específicos:
-- Conocer los números necesarios para configurar el direccionamiento de una red de area local.  
+- Conocer los metodos de instalacion de sistemas operativos.
+- Realizar la instalacion adecuada de los sistemas operativos.
+- Identificar las caracteristicas de los equipos, y sus apropiado sistema operativo.
 
 ---
 
-## Parámetros:
-Para todos los efectos:
-* la letra G  de se reemplaza por el número de grupo de laboratorio.
-* la letra C  de se reemplaza por el ultimo número de cédula del estudiante.
 
 
 ## 1. [Configurar el entorno de trabajo](#) ✔
