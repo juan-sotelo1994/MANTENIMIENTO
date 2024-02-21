@@ -16,11 +16,8 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 - Identificar las caracteristicas de los equipos, y sus apropiado sistema operativo.
 
 ---
-
-
-
 ## 1. [Configurar el entorno de trabajo](#) ✔
-1. Cree si no existe el repositorio [__"REDES-2"__][1_2] en su cuenta de github. ✔
+1. Cree si no existe el repositorio [__"Mantenimiento"__][1_2] en su cuenta de github. ✔
 1. Agregue un archivo llamado [__"laboratorio_2.md"__][1_2] a este repositorio. ✔
 1. Invite a los compañeros de grupo como colaboradores en este repositorio. ✔
 1. Documente cada uno de los items a continuación con capturas de pantalla y código . ✔
