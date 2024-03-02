@@ -62,6 +62,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 11. Elimincaion de complemento basura.
 12. instalacion de licencias.
 
+
 ## 5. [Caracterizas del sistema final](#) ✔
 
 |Parámetro||Valor|
@@ -72,6 +73,8 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 |Version del sistema|-->|22.04H|
 |Licencia|-->|wordgrouo|
 |Codigo de Licencia|-->|nombre del equipo|
+
+
 
 
 

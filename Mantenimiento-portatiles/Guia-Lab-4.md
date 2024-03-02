@@ -49,7 +49,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 |Voltaje DC|-->|xxxxxx|
 
 
-## 4. [Configurar básica de CPE TP-LINK](#) ✔
+## 4. [Configurar básica de PC](#) ✔
 1. Conecte los equipos a la red eléctrica.
 2. [Reiniciar][4_1] el dispositivo para ingresar a la BIOS.
 3. Conectar una usb que contenga el sistema a instalar.
@@ -62,6 +62,11 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 10. Verificacion de sistema.
 11. Elimincaion de complemento basura.
 12. instalacion de licencias.
+13. Destapár el equipo con cuidado
+14. Revisar el equipo y dar una evaluacion rapida.
+15. Desarmar los componentes y hacer una limpieza.
+16. Cambiar la pasta termica con cuidado y mucha delicadeza.
+17. volver a armar el equipo y ensamblar adecuadamente.
 
 ## 5. [Caracterizas del sistema final](#) ✔
 
@@ -73,6 +78,11 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 |Version del sistema|-->|22.04H|
 |Licencia|-->|wordgrouo|
 |Codigo de Licencia|-->|nombre del equipo|
+|Componente corregido|-->|nombre del equipo|
+|Codigo del corregido|-->|nombre del equipo|
+|Codigo de placa base|-->|nombre del equipo|
+
+
 
 
 
