@@ -84,7 +84,6 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 
 
 
-[![descarga-1.jpg](https://i.postimg.cc/wvWGgdkB/descarga-1.jpg)](https://postimg.cc/7G2Vnddv)
 
 [psk]:https://es.wikipedia.org/wiki/Pre-shared_key
 [dhcp]:https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host
