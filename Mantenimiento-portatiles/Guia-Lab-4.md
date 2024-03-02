@@ -27,12 +27,12 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 
 <ol type="a">
 
-<li>¿Por que es mejor Instalar el sistema desde cero que montarlo en otro ya existente?</li>
-<li>¿Que significa MBR?.</li>
-<li>¿Que significa GPT?.</li>
-<li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.</li>
-<li>¿Que ventajas tiene instalar sin UEFI?.</li>
-<li>¿Que es mas recomendable?</li>
+<li>¿Cual es la importancia de tener una backup de controladores?</li>
+<li>¿Como sacamos los drivers de nuesto equipo?.</li>
+<li>¿Que licencias tiene nuestro equipo informatico?.</li>
+<li>¿Por que la importancia de las licencias del software?.</li>
+<li>¿Que tipo de licencias existen para nuestro software?.</li>
+<li>¿Que licencia recomienda para un cliente?</li>
 
 </ol>
 
@@ -47,6 +47,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias para realizar 
 |Sistema Operativo|-->|xxxxxxx|
 |Tipo de WIFI|-->|xxxxxxxx|
 |Voltaje DC|-->|xxxxxx|
+
 
 ## 4. [Configurar básica de CPE TP-LINK](#) ✔
 1. Conecte los equipos a la red eléctrica.

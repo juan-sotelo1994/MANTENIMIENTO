@@ -48,7 +48,7 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 |Tipo de WIFI|-->|xxxxxxxx|
 |Voltaje DC|-->|xxxxxx|
 
-## 4. [Configurar básica de CPE TP-LINK](#) ✔
+## 4. [Configurar básica de PC](#) ✔
 1. Conecte los equipos a la red eléctrica.
 2. [Reiniciar][4_1] el dispositivo para ingresar a la BIOS.
 3. Conectar una usb que contenga el sistema a instalar.
