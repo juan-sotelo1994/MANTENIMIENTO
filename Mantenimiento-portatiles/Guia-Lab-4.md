@@ -3,22 +3,22 @@
 
 <p>Creado por <code>Jsotelo</code> para fortalecer los fundamentos de la <code>reparacion de los equipos de computo</code> en los cursos de mantenimiento y reparacion </p>
 
-# Practica de laboratorio 03
+# Practica de laboratorio 04
 
 ## Objetivos
 
 ### Objetivo General
-Proporcionar el conocimiento y generar las habilidades necesarias realizar un buen mantenimiento correcitvo de sistemas.
+Proporcionar el conocimiento y generar las habilidades necesarias para realizar un buen mantenimiento correcitvo del hardware y software. 
 
 ### Objetivos Específicos:
 - Conocer los metodos de instalacion de sistemas operativos.
-- Realizar la instalacion adecuada de los sistemas operativos.
-- Identificar las caracteristicas de los equipos, y sus apropiado sistema operativo.
+- Realizar la evaluacion adecuada para la reparacion del equipo informatico.
+- Identificar las piezas dañadas y dar un diagnostico correcto del equipo informatico.
 
 ---
 ## 1. [Configurar el entorno de trabajo](#) ✔
 1. Cree si no existe el repositorio [__"Mantenimiento"__][1_2] en su cuenta de github. ✔
-1. Agregue un archivo llamado [__"laboratorio_2.md"__][1_2] a este repositorio. ✔
+1. Agregue un archivo llamado [__"laboratorio_4.md"__][1_2] a este repositorio. ✔
 1. Invite a los compañeros de grupo como colaboradores en este repositorio. ✔
 1. Documente cada uno de los items a continuación con capturas de pantalla y código . ✔
 
